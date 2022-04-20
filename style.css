@@ -1,3 +1,24 @@
-body { 
-    background-color: lightblue;
+body{
+
+font-family: Verdana, Helvetica, Arial, sans-serif;
+
 }
+
+h2{
+
+font-family: Verdana, Helvetica, Arial, sans-serif;
+color:#007e7e
+}
+
+
+#garantie{
+font-style: Georgia, "Times New Roman", serif;
+font-style: italic;
+background-color: #a7cece;
+padding:1cm;
+margin-left: 100px;
+margin-right: 100px;
+}
+
+
+
